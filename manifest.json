@@ -1,0 +1,17 @@
+{
+    "name": "SITE NASA",
+    "short_name": "NASA",
+    "description": "Projeto de site da NASA",
+    "theme_color": "#2a0044",
+    "background_color": "#2a0044",
+    "display": "standalone",
+    "start_url": "/",
+    "scope": ".",  
+    "icons": [
+      {
+        "src": "img/galeria/nasa-logo.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ]
+  }
