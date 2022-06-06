@@ -3,9 +3,7 @@
   <head>
     <title>Projeto Nasa</title>
     <meta charset="utf-8"/>
-    <style type="text/css">
-      @import url("css/style.css");
-   </style>
+    <link href="./css/style.css" rel="stylesheet">
   </head>
   <body> 
       <header class="header">
